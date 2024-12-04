@@ -1,0 +1,17 @@
+Név: Halász Panna
+
+URL:
+
+A honlap egy franciaországi kiutazási lehetőséget kínál fiataloknak. 
+
+A js kód a jelentkezés navbar menüpont alatti oldalon található meg. 
+Valamint a Főoldalon is található, azzal lehet átjutni a részletek gomb segítségével.
+
+Betűtípus: 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unna:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+AZ egész weboldalon Unna típust használtam.
+
+        
